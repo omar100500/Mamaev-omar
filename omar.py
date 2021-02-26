@@ -1,4 +1,4 @@
-class footbal:
+###class footbal:
     def __init__(self,name,age,kol,apl,lch):
         self.name=name
         self.age=age
